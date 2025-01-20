@@ -31,7 +31,7 @@
 		- [Lambda function](#lambda-function)
 	- [15. List operation 2: Filter](#15-list-operation-2-filter)
 	- [16. List comprehension](#16-list-comprehension)
-	- [Practice questions - 2: Lists](#practice-questions---2-lists)
+	- [Practice questions](#practice-questions)
 
 
 ## 1. A string is a sequence
@@ -611,7 +611,7 @@ print(positive_numbers)
 ```
 
 
-## Practice questions - 2: Lists
+## Practice questions
 
 1. Use two `input` function twice, one for inputing first name and another one for last name.  Use `.strip()` and `.title()` methods to correct user's input. Then print "Last name, First name". For example, input: " jin" as first name, "wang" as last name, the output would be "Wang, Jin".
 

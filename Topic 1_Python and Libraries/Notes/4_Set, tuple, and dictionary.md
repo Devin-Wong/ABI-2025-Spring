@@ -21,7 +21,7 @@
   - [7. A dictionary is a mapping](#7-a-dictionary-is-a-mapping)
   - [8. Lookup](#8-lookup)
   - [9. Dictionary and list/tuple](#9-dictionary-and-listtuple)
-  - [10. Practice questions - 1: Set and tuple](#10-practice-questions---1-set-and-tuple)
+  - [Practice questions](#practice-questions)
 
 
 ## 1. Sets
@@ -480,8 +480,7 @@
 	{'Jack': 22, 'Mary': 21}
 	```
 
-## 10. Practice questions - 1: Set and tuple
-
+## Practice questions
 
 1. We've provided you with a list of lottery players, and also with 6 random lottery numbers. The random lottery numbers are generated like this:
     ```python
