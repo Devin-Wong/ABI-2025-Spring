@@ -1,6 +1,17 @@
 def printhello(name, greeting="Hello"):
     print(f"{greeting}, {name}!")
+    return 'Done'
 
-printhello("Jin") # Hello
-printhello("Yeju") # Hello
-printhello("Rajat", "Good night") # Good night
+rst = printhello("Jin") # Hello
+print(rst)
+
+
+
+
+
+
+
+
+
+# printhello("Yeju") # Hello
+# printhello("Rajat", "Good night") # Good night
