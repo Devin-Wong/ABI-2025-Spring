@@ -1,17 +1,17 @@
 # Grading criteria 
 
-1. (10 pts) Exploring and discovering
-   - Visualize, correlation, etc 
+1. (9 pts) Data cleaning, exploring and discovering
+   - Visualization, correlation, etc 
    - define question 
-   - Training, validation, test set
-2. (15 pts) select model 
+   - define training and testing sets
+2. (15 pts) Model selection
    - Try different models 
    - Compare prediction results 
    - Analyse results 
      - e.g., which features are important?
 3. (10 pts) fine-tune models 
    - tune hyperparameters to obtain the best results
-4. (5 pts) report writing 
+4. (6 pts) report writing 
    - Well-orgenized statement
    - pdf format
 5. (5 pts) presentation and defence
