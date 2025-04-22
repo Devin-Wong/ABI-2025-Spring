@@ -1,4 +1,4 @@
-# Scoring criteria 
+# Grading criteria 
 
 1. (20 pts) Exploring and discovering（
    - Visualize, correlation, etc 
