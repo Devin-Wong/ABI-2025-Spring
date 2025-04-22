@@ -1,25 +1,6 @@
+# Data Instruction
 
-
-### (1) New York Municipalities
-
-
-
-| Features  | Explanation                |
-| --------- | -------------------------- |
-| ID        | Identity number            |
-| ST        | State code                 |
-| CO        | County code                |
-| **EXPEN** | **Expenditure per person** |
-| WEALTH    | Wealth per Person          |
-| POP       | Population                 |
-| PINTG     | Percent intergovernmental  |
-| DENS      | Density                    |
-| INCOME    | Mean income per person     |
-| GROWR     | Population growth rate     |
-|           |                            |
-
-
-### (2) Hitters
+## 1. Hitters
 
 A data frame with 322 observations of major league players on the following 20 variables.
 
@@ -103,7 +84,7 @@ A data frame with 322 observations of major league players on the following 20 v
 
   A factor with levels `A` and `N` indicating player's league at the beginning of 1987
 
-###   (3) Caravan
+## 2. Caravan
 
 **Description**
 
@@ -129,7 +110,7 @@ A data frame with 322 observations of major league players on the following 20 v
 
 
 
-### (4) Gene Data
+## 3. Gene Data
 
 **Description**
 

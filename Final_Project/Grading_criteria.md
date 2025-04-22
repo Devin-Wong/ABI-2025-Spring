@@ -1,6 +1,6 @@
 # Grading criteria 
 
-1. (20 pts) Exploring and discovering（
+1. (20 pts) Exploring and discovering
    - Visualize, correlation, etc 
    - define question 
    - Training, validation, test set
@@ -24,5 +24,3 @@
 - Cite references if you refer to any codes or methods from website, papers, book, etc. Otherwise, it will be considered as **plagiarism**
 - “Use of AI such as ChatGPT is fully permitted, but you must cite the tool and be able to explain any work
 that you submit.”
-
-
